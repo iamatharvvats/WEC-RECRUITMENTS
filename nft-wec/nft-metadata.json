@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Maltipoo"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Mocha"
+    } ],
+    "description" : "Image",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmVhGk8FJrm3kkRy2DXG9og6JNjYjGw18gAhccjKt9CBF7",
+    "name" : "Ramses"
+}
