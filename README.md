@@ -1,5 +1,7 @@
 # WEC-RECRUITMENTS
 # WEC-RECRUITMENTS - PROJECT 1 : MINTING NFT
+# VIDEO LINK<br>
+URL : https://drive.google.com/file/d/1eOMjoEg0aWF5Xjg_tN8nCXAsxLVdhcdc/view?usp=drive_link <br>
 // GDSC - SYSTEMS INTER SIG PROJECT - MINTING OF TV - CHARACTERS NFT COLLECTION
 
 The project is basically build upon using VS-Code as editor, hardhat as local development environment,  solidity language as smart contract, alchemy, ether.js, pinata as IPFS (Interplanetary File Management System ) to store my 
