@@ -237,8 +237,8 @@ After this by passing the new ImageURI call the settokenImage function to update
 =====>>>>>>>>The screenshots are provide alongwith.
 
 Links :
-Pinata : https://app.pinata.cloud/pinmanager
-Token Uri : https://crimson-patient-gorilla-331.mypinata.cloud/ipfs/QmdRahdVVsTKfRfoCbL8bXiR3cYMHzznkVgp48L3dNmoyV?_gl=1*1mskm3r*_ga*NjM2MTc0NDYuMTY5NjcxMDc0Ng..*_ga_5RMPXG14TE*MTY5ODE2Mzg0MC4xMS4xLjE2OTgxNjM5NzMuMTYuMC4w
-Deployed Contract : https://sepolia.etherscan.io/address/0x49D204d50b6C7bE393cFe7FBc961256E6F3060B7
-Mint Link : https://sepolia.etherscan.io/tx/0xb4cd7459abdaaaee6249aa92c96491a26649ea57ce8ad536ffb7580fee10dcda
-****************************************************************************************************************************************************************************
+Pinata : https://app.pinata.cloud/pinmanager<br>
+Token Uri : https://crimson-patient-gorilla-331.mypinata.cloud/ipfs/QmdRahdVVsTKfRfoCbL8bXiR3cYMHzznkVgp48L3dNmoyV?_gl=1*1mskm3r*_ga*NjM2MTc0NDYuMTY5NjcxMDc0Ng..*_ga_5RMPXG14TE*MTY5ODE2Mzg0MC4xMS4xLjE2OTgxNjM5NzMuMTYuMC4w<br>
+Deployed Contract : https://sepolia.etherscan.io/address/0x49D204d50b6C7bE393cFe7FBc961256E6F3060B7<br>
+Mint Link : https://sepolia.etherscan.io/tx/0xb4cd7459abdaaaee6249aa92c96491a26649ea57ce8ad536ffb7580fee10dcda<br>
+****************************************************************************************************************************
